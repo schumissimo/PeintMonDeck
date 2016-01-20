@@ -1,0 +1,9 @@
+/app/cache/*
+/app/logs/*
+
+/var/cache/*
+/var/logs/*
+
+
+/app/bootstrap.php.cache
+/var/bootstrap.php.cache
